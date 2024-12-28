@@ -14,7 +14,7 @@ This repository includes models and tools for:
 
 | Model                          | Description                                                |
 |--------------------------------|------------------------------------------------------------|
-| `saaS-model`| A monthly financial model for startups (P&L, Balance Sheet, Cash Flow), with subscribers modeling, churn and growth rate assumptions.|
+| `saas-financial-model`| A monthly financial model for startups (P&L, Balance Sheet, Cash Flow), with subscribers modeling, churn and growth rate assumptions.|
 
 ## ⚠️ **Disclaimer**
 The models and tools provided in this repository are for educational and illustrative purposes only. They do not represent real data or financial advice. These templates are intended to serve as starting points for your own work and should be tailored to meet specific requirements or use cases.
