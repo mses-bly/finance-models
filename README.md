@@ -1,6 +1,9 @@
 # Finance Models Repository
 
-Welcome to my **Finance Models** repository! 🚀 This is a curated collection of financial models I’ve developed as I've worked on different finance topics.
+Welcome to my **Finance Models** repository! 🚀 This is a curated collection of starter financial models I’ve developed while working on different finance topics.
+
+## ⚠️ **Disclaimer**
+The models and tools provided in this repository are for educational and illustrative purposes only. They do not represent real data or financial advice. These templates are intended to serve as starting points for your own work and should be tailored to meet specific requirements or use cases.
 
 ## 📊 **Overview**
 
@@ -15,9 +18,6 @@ This repository includes models and tools for:
 | Model                          | Description                                                |
 |--------------------------------|------------------------------------------------------------|
 | `saas-financial-model`| A monthly financial model for startups (P&L, Balance Sheet, Cash Flow), with subscribers modeling, churn and growth rate assumptions.|
-
-## ⚠️ **Disclaimer**
-The models and tools provided in this repository are for educational and illustrative purposes only. They do not represent real data or financial advice. These templates are intended to serve as starting points for your own work and should be tailored to meet specific requirements or use cases.
 
 ## 📝 **Contact**
 
