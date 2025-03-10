@@ -18,6 +18,7 @@ This repository includes models and tools for:
 | Model                          | Description                                                |
 |--------------------------------|------------------------------------------------------------|
 | `saas-financial-model`| A monthly financial model for startups (P&L, Balance Sheet, Cash Flow), with subscribers modeling, churn and growth rate assumptions.|
+| `fp&a`| Several analyses typically conducted in FP&A roles.|
 
 ## 📝 **Contact**
 
